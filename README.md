@@ -1,44 +1,44 @@
 <h1 align="center">Hi 👋, I'm Prashik Bhimte</h1>
-<h3 align="center">ML Engineer Intern | Python Backend Developer | Problem Solver</h3>
+<h3 align="center">ML Engineer | Python Backend Developer | Problem Solver</h3>
 
 ---
 
 💡 **About Me**
-- 🎓 Final-year Computer Science student with a passion for building intelligent and scalable systems.
-- 🚀 I specialize in the intersection of **Machine Learning** and robust **Python Backend Development**.
-- 🛠️ Experienced with frameworks like **FastAPI**, **Flask**, and **Django**, with a focus on creating efficient, maintainable APIs.
-- 📫 Reach me at: prashikbhimte29@gmail.com
+- [cite_start]🎓 Final-year Computer Science student at Shri Guru Gobind Singhji Institute of Engineering and Technology. [cite: 4, 5]
+- [cite_start]🧠 Exploring the intersection of **Machine Learning** and **Backend Systems** with a strong foundation in **Python** (4+ years). [cite: 28]
+- 💼 Gained hands-on experience in embedded systems and Edge AI during my Software Development Internship at Suharsh Software Systems Pvt. [cite_start]Ltd. and Intentician Team. [cite: 7, 8, 12]
+- [cite_start]🚀 I enjoy building real-world solutions and am proficient in frameworks like **FastAPI** and **Flask**. [cite: 15, 19, 30]
+- [cite_start]📫 Reach me at: prashikbhimte29@gmail.com [cite: 3]
 
 ---
 
 ### 💼 **Internship Experience**
 
-#### **ML Engineer Intern @ [Company Name]**
-- Developed and deployed an end-to-end **Customer Churn Prediction** model using **Scikit-learn** and a **FastAPI** backend.
-- Managed a dataset of 500,000+ customer records, achieving a model accuracy of **92%** and reducing prediction latency by **40%**.
-- Integrated the model into the production pipeline, enabling real-time churn risk analysis for the marketing team.
+#### **Software Development Intern @ Suharsh Software Systems Pvt. Ltd. & Intentician Team**
+- [cite_start]Engineered embedded C firmware for the ESP32-S3 BLE, incorporating FreeRTOS tasks. [cite: 11]
+- [cite_start]Deployed real-time Edge AI models directly onto ESP32-S3 hardware using ESP-NN. [cite: 12]
+- [cite_start]Crafted a React Native Android application for BLE device configuration. [cite: 10]
+- [cite_start]Acquired practical expertise in embedded C development and communication protocols (I2S, I2C), with familiarity in SPI and UART. [cite: 13]
 
 ---
 
 ### 📌 **Highlighted Projects & ML Case Studies**
 
-#### 🔐 **Automated Paperless Transparent College System**
-- Developed a FastAPI backend to digitize college workflows, including secure, paperless elections.
-- Implemented **face recognition (OpenCV)** and integrated it with a real-time FastAPI endpoint for secure voter authentication.
-- Architected the system to handle over **59,000 HTTPS requests per month** using asynchronous endpoints and **Supabase** for robust authentication and data management.
-- [🔗 View Repository](https://github.com/yourusername/college-admin-system)
+#### 🚗 **Smart Parking System**
+- [cite_start]Trained a **YOLOv8** model for real-time parking space detection, achieving **80% accuracy**. [cite: 24]
+- [cite_start]Formulated a land classification ML model and implemented predictive analytics for parking availability. [cite: 26]
+- [cite_start]Connected an occupancy display system with physical hardware on-site. [cite: 25]
 
-#### 🚗 **Intelligent Parking Slot Detection System**
-- Designed and trained a **YOLOv8** model to detect and classify occupied and empty parking spaces from CCTV footage.
-- Fine-tuned the model on a custom dataset of 1,500+ images, achieving a mean Average Precision (mAP) of **88%**.
-- Built a lightweight **Flask** API to serve the model, providing real-time parking availability data.
-- Explored model quantization techniques to optimize inference speed by **30%** for edge deployment.
+#### 🔐 **Paperless Campus**
+- [cite_start]Developed a full-stack web platform to streamline college administrative processes, reducing paper consumption by **80%**. [cite: 20]
+- [cite_start]Constructed a scalable backend server with **FastAPI** and **Supabase** for document management. [cite: 21]
+- [cite_start]Integrated **face recognition** into the web portal for student election verification, achieving **75% accuracy**. [cite: 22]
+- [cite_start]Facilitated role-based document creation, monitoring, and authorization for students and staff. [cite: 23]
 
-#### 🏥 **CareSlot – Hospital Management System**
-- Built a full hospital management backend using **Flask** and **MySQL**.
-- Delivered REST APIs and connected a **Tkinter desktop app** and **React frontend**.
-- Implemented CRUD logic and schema optimization for efficient data handling.
-- [🔗 View Repository](https://github.com/yourusername/careslot)
+#### 🏥 **CareSlot – Smart Hospital Management System**
+- [cite_start]Created a Python **Tkinter**-based desktop application for hospital administration, improving efficiency by **25%**. [cite: 16]
+- [cite_start]Designed a patient-facing web portal utilizing HTML, CSS, Flask, and React.js. [cite: 17]
+- [cite_start]Established a centralized **Flask API** server to ensure smooth system integration. [cite: 18]
 
 ---
 
@@ -46,47 +46,32 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-🔍 **Currently Exploring**
-- 📦 Django REST Framework (DRF) & Auth systems
-- 📊 Scalable ML model deployment with FastAPI
-- 🧠 Secure, intelligent database systems with AI integration
+🔍 **Certifications & Coursework**
 
----
-
-✨ **Fun Fact**
-> I prefer shipping real code over solving toy problems.
+- [cite_start]**Certified in AI-Data Scientist: Visualizations** (NSQF Level 6) by NASSCOM, recognized by NCVET. [cite: 36]
+- [cite_start]**DSML Advance Program** from BossCoder Academy, covering Advanced Python, Math for ML, Deep Learning, NLP, and MLOps. [cite: 34, 35]
+- [cite_start]Completed **Machine Learning A-Z** and **Natural Language Processing with Deep Learning in Python** from Udemy. [cite: 37, 38]
 
 ---
 
 📫 **Let's Connect!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashikbhimte29/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/prashikbhimte29/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:prashikbhimte29@gmail.com)
-
----
-
-## 🛠️ Skills
-
-**Languages:** Python, JavaScript, SQL, C, Java, Bash
-**ML & Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow
-**Backend:** FastAPI, Flask, Django, REST APIs
-**Frontend (basic):** React.js, HTML5, CSS
-**Databases:** MySQL, Supabase, SQLite
-**Tools:** Git, GitHub, VS Code, Postman, PyCharm
-**OS:** Windows, Linux (Ubuntu)
 
 ---
 
