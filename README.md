@@ -4,41 +4,41 @@
 ---
 
 💡 **About Me**
-- [cite_start]🎓 Final-year Computer Science student at Shri Guru Gobind Singhji Institute of Engineering and Technology. [cite: 4, 5]
-- [cite_start]🧠 Exploring the intersection of **Machine Learning** and **Backend Systems** with a strong foundation in **Python** (4+ years). [cite: 28]
-- 💼 Gained hands-on experience in embedded systems and Edge AI during my Software Development Internship at Suharsh Software Systems Pvt. [cite_start]Ltd. and Intentician Team. [cite: 7, 8, 12]
-- [cite_start]🚀 I enjoy building real-world solutions and am proficient in frameworks like **FastAPI** and **Flask**. [cite: 15, 19, 30]
-- [cite_start]📫 Reach me at: prashikbhimte29@gmail.com [cite: 3]
+- 🎓 Final-year Computer Science student at Shri Guru Gobind Singhji Institute of Engineering and Technology. 
+- 🧠 Exploring the intersection of **Machine Learning** and **Backend Systems** with a strong foundation in **Python** (4+ years). 
+- 💼 Gained hands-on experience in embedded systems and Edge AI during my Software Development Internship at Suharsh Software Systems Pvt. Ltd. and Intentician Team.
+- 🚀 I enjoy building real-world solutions and am proficient in frameworks like **FastAPI** and **Flask**. 
+- 📫 Reach me at: prashikbhimte29@gmail.com 
 
 ---
 
 ### 💼 **Internship Experience**
 
 #### **Software Development Intern @ Suharsh Software Systems Pvt. Ltd. & Intentician Team**
-- [cite_start]Engineered embedded C firmware for the ESP32-S3 BLE, incorporating FreeRTOS tasks. [cite: 11]
-- [cite_start]Deployed real-time Edge AI models directly onto ESP32-S3 hardware using ESP-NN. [cite: 12]
-- [cite_start]Crafted a React Native Android application for BLE device configuration. [cite: 10]
-- [cite_start]Acquired practical expertise in embedded C development and communication protocols (I2S, I2C), with familiarity in SPI and UART. [cite: 13]
+- Engineered embedded C firmware for the ESP32-S3 BLE, incorporating FreeRTOS tasks.
+- Deployed real-time Edge AI models directly onto ESP32-S3 hardware using ESP-NN.
+- Crafted a React Native Android application for BLE device configuration.
+- Acquired practical expertise in embedded C development and communication protocols (I2S, I2C), with familiarity in SPI and UART. 
 
 ---
 
 ### 📌 **Highlighted Projects & ML Case Studies**
 
 #### 🚗 **Smart Parking System**
-- [cite_start]Trained a **YOLOv8** model for real-time parking space detection, achieving **80% accuracy**. [cite: 24]
-- [cite_start]Formulated a land classification ML model and implemented predictive analytics for parking availability. [cite: 26]
-- [cite_start]Connected an occupancy display system with physical hardware on-site. [cite: 25]
+- Trained a **YOLOv8** model for real-time parking space detection, achieving **80% accuracy**.
+- Formulated a land classification ML model and implemented predictive analytics for parking availability.
+- Connected an occupancy display system with physical hardware on-site.
 
 #### 🔐 **Paperless Campus**
-- [cite_start]Developed a full-stack web platform to streamline college administrative processes, reducing paper consumption by **80%**. [cite: 20]
-- [cite_start]Constructed a scalable backend server with **FastAPI** and **Supabase** for document management. [cite: 21]
-- [cite_start]Integrated **face recognition** into the web portal for student election verification, achieving **75% accuracy**. [cite: 22]
-- [cite_start]Facilitated role-based document creation, monitoring, and authorization for students and staff. [cite: 23]
+- Developed a full-stack web platform to streamline college administrative processes, reducing paper consumption by **80%**.
+- Constructed a scalable backend server with **FastAPI** and **Supabase** for document management. 
+- Integrated **face recognition** into the web portal for student election verification, achieving **75% accuracy**. 
+- Facilitated role-based document creation, monitoring, and authorization for students and staff.
 
 #### 🏥 **CareSlot – Smart Hospital Management System**
-- [cite_start]Created a Python **Tkinter**-based desktop application for hospital administration, improving efficiency by **25%**. [cite: 16]
-- [cite_start]Designed a patient-facing web portal utilizing HTML, CSS, Flask, and React.js. [cite: 17]
-- [cite_start]Established a centralized **Flask API** server to ensure smooth system integration. [cite: 18]
+- Created a Python **Tkinter**-based desktop application for hospital administration, improving efficiency by **25%**.
+- Designed a patient-facing web portal utilizing HTML, CSS, Flask, and React.js.
+- Established a centralized **Flask API** server to ensure smooth system integration.
 
 ---
 
@@ -61,9 +61,9 @@
 
 🔍 **Certifications & Coursework**
 
-- [cite_start]**Certified in AI-Data Scientist: Visualizations** (NSQF Level 6) by NASSCOM, recognized by NCVET. [cite: 36]
-- [cite_start]**DSML Advance Program** from BossCoder Academy, covering Advanced Python, Math for ML, Deep Learning, NLP, and MLOps. [cite: 34, 35]
-- [cite_start]Completed **Machine Learning A-Z** and **Natural Language Processing with Deep Learning in Python** from Udemy. [cite: 37, 38]
+- **Certified in AI-Data Scientist: Visualizations** (NSQF Level 6) by NASSCOM, recognized by NCVET.
+- **DSML Advance Program** from BossCoder Academy, covering Advanced Python, Math for ML, Deep Learning, NLP, and MLOps.
+- Completed **Machine Learning A-Z** and **Natural Language Processing with Deep Learning in Python** from Udemy. 
 
 ---
 
