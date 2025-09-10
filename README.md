@@ -4,7 +4,7 @@
 ---
 
 💡 **About Me**  
-- 🎓 I'm a 3rd year B.Tech Computer Science student  
+- 🎓 I'm a final year B.Tech Computer Science student  
 - 🧠 Exploring the intersection of **Machine Learning** and **Backend Systems**  
 - 🔧 Skilled in building robust APIs with **FastAPI**, **Flask**, and **Django**  
 - 🤖 I enjoy solving real-world problems using ML tools like **Scikit-learn** and **TensorFlow**  
