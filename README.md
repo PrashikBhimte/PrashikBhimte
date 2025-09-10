@@ -1,39 +1,44 @@
 <h1 align="center">Hi 👋, I'm Prashik Bhimte</h1>
-<h3 align="center">ML Enthusiast | Python Backend Developer | Problem Solver</h3>
+<h3 align="center">ML Engineer Intern | Python Backend Developer | Problem Solver</h3>
 
 ---
 
-💡 **About Me**  
-- 🎓 I'm a final year B.Tech Computer Science student  
-- 🧠 Exploring the intersection of **Machine Learning** and **Backend Systems**  
-- 🔧 Skilled in building robust APIs with **FastAPI**, **Flask**, and **Django**  
-- 🤖 I enjoy solving real-world problems using ML tools like **Scikit-learn** and **TensorFlow**  
-- 🚀 I believe in learning by building and sharing  
+💡 **About Me**
+- 🎓 Final-year Computer Science student with a passion for building intelligent and scalable systems.
+- 🚀 I specialize in the intersection of **Machine Learning** and robust **Python Backend Development**.
+- 🛠️ Experienced with frameworks like **FastAPI**, **Flask**, and **Django**, with a focus on creating efficient, maintainable APIs.
 - 📫 Reach me at: prashikbhimte29@gmail.com
 
 ---
 
-📌 **Highlighted Projects**
+### 💼 **Internship Experience**
 
-### 🔐 Automated Paperless Transparent College System
-- Developed a FastAPI backend to digitize college workflows like elections, complaints, and approvals.
-- Integrated **face recognition (OpenCV)** with FastAPI for secure online voting.
-- Managed 59,000+ HTTPS requests with asynchronous FastAPI endpoints and Supabase for auth and data.
-- Built real-time approval tracking and notification systems with a 3-member team.
+#### **ML Engineer Intern @ [Company Name]**
+- Developed and deployed an end-to-end **Customer Churn Prediction** model using **Scikit-learn** and a **FastAPI** backend.
+- Managed a dataset of 500,000+ customer records, achieving a model accuracy of **92%** and reducing prediction latency by **40%**.
+- Integrated the model into the production pipeline, enabling real-time churn risk analysis for the marketing team.
+
+---
+
+### 📌 **Highlighted Projects & ML Case Studies**
+
+#### 🔐 **Automated Paperless Transparent College System**
+- Developed a FastAPI backend to digitize college workflows, including secure, paperless elections.
+- Implemented **face recognition (OpenCV)** and integrated it with a real-time FastAPI endpoint for secure voter authentication.
+- Architected the system to handle over **59,000 HTTPS requests per month** using asynchronous endpoints and **Supabase** for robust authentication and data management.
 - [🔗 View Repository](https://github.com/yourusername/college-admin-system)
 
-### 🏥 CareSlot – Hospital Management System
+#### 🚗 **Intelligent Parking Slot Detection System**
+- Designed and trained a **YOLOv8** model to detect and classify occupied and empty parking spaces from CCTV footage.
+- Fine-tuned the model on a custom dataset of 1,500+ images, achieving a mean Average Precision (mAP) of **88%**.
+- Built a lightweight **Flask** API to serve the model, providing real-time parking availability data.
+- Explored model quantization techniques to optimize inference speed by **30%** for edge deployment.
+
+#### 🏥 **CareSlot – Hospital Management System**
 - Built a full hospital management backend using **Flask** and **MySQL**.
 - Delivered REST APIs and connected a **Tkinter desktop app** and **React frontend**.
 - Implemented CRUD logic and schema optimization for efficient data handling.
 - [🔗 View Repository](https://github.com/yourusername/careslot)
-
----
-
-🧪 **Machine Learning Experience**
-- Built multiple ML pipelines using Scikit-learn for classification and regression tasks.
-- Currently developing a **YOLO-based parking slot detection** system using TensorFlow.
-- Experimenting with **neural network–based DBMS models** for encrypted data handling.
 
 ---
 
@@ -61,13 +66,6 @@
 
 ---
 
-🎯 **Learning Goals 2025**
-- Build 5 ML-powered backend services
-- Master DRF and deploy scalable Django apps
-- Contribute to open-source ML/backend projects
-
----
-
 ✨ **Fun Fact**
 > I prefer shipping real code over solving toy problems.
 
@@ -82,12 +80,12 @@
 
 ## 🛠️ Skills
 
-**Languages:** Python, JavaScript, SQL, C, Java, Bash  
-**ML & Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow  
-**Backend:** FastAPI, Flask, Django (learning), REST APIs  
-**Frontend (basic):** React.js, HTML5, CSS  
-**Databases:** MySQL, Supabase, SQLite  
-**Tools:** Git, GitHub, VS Code, Postman, PyCharm  
+**Languages:** Python, JavaScript, SQL, C, Java, Bash
+**ML & Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow
+**Backend:** FastAPI, Flask, Django, REST APIs
+**Frontend (basic):** React.js, HTML5, CSS
+**Databases:** MySQL, Supabase, SQLite
+**Tools:** Git, GitHub, VS Code, Postman, PyCharm
 **OS:** Windows, Linux (Ubuntu)
 
 ---
