@@ -1,24 +1,29 @@
 <h1 align="center">Hi 👋, I'm Prashik Bhimte</h1>
-<h3 align="center">ML Engineer | Python Backend Developer | Problem Solver</h3>
+<h3 align="center">Software Engineer | AI & Backend Developer | Problem Solver</h3>
 
 ---
 
 💡 **About Me**
-- 🎓 Final-year Computer Science student at Shri Guru Gobind Singhji Institute of Engineering and Technology. 
-- 🧠 Exploring the intersection of **Machine Learning** and **Backend Systems** with a strong foundation in **Python** (4+ years). 
-- 💼 Gained hands-on experience in embedded systems and Edge AI during my Software Development Internship at Suharsh Software Systems Pvt. Ltd. and Intentician Team.
-- 🚀 I enjoy building real-world solutions and am proficient in frameworks like **FastAPI** and **Flask**. 
-- 📫 Reach me at: prashikbhimte29@gmail.com 
+- 🧠 Specializing in the intersection of **Backend Systems** and **Machine Learning** to build high-performance, intelligent applications.
+- 💼 Experienced in developing enterprise-grade data workflows, ETL pipelines, and API integrations.
+- 🚀 Deeply proficient in **Python** and **Java**, building scalable architectures using **FastAPI**, **Spring Boot**, and **Node.js**.
+- 🎛️ Passionate about performance optimization, with proven experience in **Edge AI**, model quantization, and multi-threaded data pipelines[cite: 1].
+- 📫 Reach me at: prashikbhimte29@gmail.com[cite: 1]
 
 ---
 
-### 💼 **Internship Experience**
+### 💼 **Professional Experience**
+
+#### **Software Engineer Intern @ SteepGraph Systems**
+- Developed and executed robust data migration workflows using Java and enterprise web services[cite: 1].
+- Designed and implemented efficient ETL pipelines to manage complex data structures and improve processing speeds[cite: 1].
+- Conducted comprehensive API comparisons to support large-scale, high-availability system deployments[cite: 1].
 
 #### **Software Development Intern @ Suharsh Software Systems Pvt. Ltd. & Intentician Team**
-- Engineered embedded C firmware for the ESP32-S3 BLE, incorporating FreeRTOS tasks.
-- Deployed real-time Edge AI models directly onto ESP32-S3 hardware using ESP-NN.
-- Crafted a React Native Android application for BLE device configuration.
-- Acquired practical expertise in embedded C development and communication protocols (I2S, I2C), with familiarity in SPI and UART. 
+- Engineered real-time Edge AI model optimization using quantization, achieving a 60%+ reduction in model size[cite: 1].
+- Deployed real-time Edge AI models directly onto ESP32 hardware using ESP-NN for autonomous inference[cite: 1].
+- Developed a high-throughput, multi-threaded data pipeline using FreeRTOS and Embedded C for low-latency sensor processing[cite: 1].
+- Crafted a React Native application with BLE integration for live monitoring and hardware configuration[cite: 1].
 
 ---
 
